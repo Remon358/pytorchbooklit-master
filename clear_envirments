@@ -1,0 +1,6 @@
+#!/bin/bash
+unset http_proxy https_proxy no_proxy all_proxy ftp_proxy 
+
+unset HTTP_PROXY HTTPS_PROXY NO_PROXY ALL_PROXY FTP_PROXY 
+
+echo "done.."
